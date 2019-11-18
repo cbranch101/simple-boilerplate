@@ -1,7 +1,7 @@
 {
-    "name": "react-wiring-library-doc-examples",
+    "name": "simple-boilerplate",
     "version": "1.0.0",
-    "description": "Examples for docs",
+    "description": "A simple boilerplate based on kcd-scripts for js packages",
     "author": "Clay Branch",
     "license": "MIT",
     "private": true,
